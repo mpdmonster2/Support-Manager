@@ -8,7 +8,7 @@ import asyncio
 
 client = discord.Client()
 
-bot_admins = ['269959141508775937']
+bot_admins = ['369292332048187392']
 
 spam_protector = {}
 
